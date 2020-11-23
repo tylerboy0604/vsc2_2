@@ -7,7 +7,7 @@ pizza
 -ananas
 
 
-ontbijd:
+ontbijt:
 -kaas
 -smeerkaas
 -worst
