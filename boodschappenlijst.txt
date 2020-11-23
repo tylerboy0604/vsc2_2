@@ -5,3 +5,12 @@ pizza
 -deeg
 -salami
 -ananas
+
+
+ontbijd:
+-kaas
+-smeerkaas
+-worst
+-smeerworst
+-choco pasta
+-hagelslag
